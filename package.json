@@ -1,0 +1,21 @@
+{
+  "name": "静态资源库",
+  "filename": "amazeui.min.js",
+  "version": "2.4.2",
+  "description": "项目简介",
+  "homepage": "http://www.baidu.com",
+  "keywords": ["关键字1", "关键字2", "关键字3"],
+  "maintainers": [
+    {
+      "name": "noname",
+      "web": "http://www.baidu.com",
+      "mail": "http://www.baidu.com"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/lylylyly/yiku.git"
+    }
+  ]
+}
