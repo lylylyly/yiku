@@ -1,15 +1,15 @@
 {
-  "name": "静态资源库",
+  "name": "amazeui",
   "filename": "amazeui.min.js",
   "version": "2.4.2",
-  "description": "项目简介",
+  "description": "此处略去三个字",
   "homepage": "http://www.baidu.com",
-  "keywords": ["关键字1", "关键字2", "关键字3"],
+  "keywords": ["amazeui"],
   "maintainers": [
     {
-      "name": "noname",
-      "web": "http://www.baidu.com",
-      "mail": "http://www.baidu.com"
+      "name": "sajuuk",
+      "web": "http:/pal.efeiyi.com",
+      "mail": "360682644@qq.com"
     }
   ],
   "repositories": [
